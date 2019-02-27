@@ -1,5 +1,5 @@
 # The book's title. Will be used everywhere!
-title: "Como Ler Mais Rápido e Compreender Melhor"
+title: "Compreendendo Textos Difíceis"
 
 # The book's language.
 language: pt
@@ -19,10 +19,10 @@ copyright: "Copyright (C) 2019 Alexandre Afonso."
 publisher: "Alexandre Afonso"
 
 # When this book was published.
-published_at: "2019-02-17"
+published_at: "2019-02-28"
 
 # Some book description.
-subject: "Este livro irá ajudar você a ler mais rápido e comprender melhor."
+subject: "Este livro irá ajudar você a compreender qualquer texto."
 
 # Some keywords that identify this book.
 keywords: "ler mais rápido, acelerar a leitura, técnicas de leitura, leitura dinâmica, concentração, compreensão, memorização, aprendizagem"
@@ -33,8 +33,8 @@ uid: "d1e939f4769d9d288822241f4107c4da"
 
 # Your book identification like ISBN or ISSN.
 identifier:
-  id: "http://alexandreafonso.com.br/como-ler-mais-rapido-e-compreender-mais"
-  type: "http://alexandreafonso.com.br/como-ler-mais-rapido-e-compreender-mais" # can be ISBN, ISSN or URL
+  id: "http://alexandreafonso.com.br/ctd"
+  type: "http://alexandreafonso.com.br/ctd" # can be ISBN, ISSN or URL
 
 # This book authors.
 authors:
